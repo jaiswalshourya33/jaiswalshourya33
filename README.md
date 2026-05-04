@@ -1,5 +1,11 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>🔭 I’m currently working on  <br>- Full-stack web development projects using React.js and Node.js  <br><br>🤝 I’m looking to collaborate on  <br>- Open-source projects and innovative web applications  <br><br>🛠️ I’m looking for help with  <br>- Backend development and system design  <br><br>🌱 I’m currently learning  <br>- Advanced React, APIs, and scalable web architectures  <br><br>💬 Ask me about  <br>- React.js, JavaScript, Web Development, DSA  <br><br>⚡ Fun fact  <br>- I enjoy turning ideas into real-world web applications 🚀  
+## About Me
+I am Shourya Jaiswal, a Computer Science (Data Science) undergraduate with strong skills in React.js, JavaScript, and Data Structures. I have built scalable web applications, including an Employee Management System handling 50+ users and improving workflow efficiency by 40%.
+
+I have experience in API integration, performance optimization (95+ Lighthouse score), and developing responsive user interfaces. With 100+ DSA problems solved, I bring strong problem-solving abilities and a passion for building efficient and impactful software solutions.
+Languages: C++, C, Python, JavaScript, Golang (basic), SQL
+Databases: MySQL, PostgreSQL
+Core Competencies: Data Structures & Algorithms, Object-Oriented Programming, Frontend Development, React.js, UI/UX, Data Analysis
 
 
 ## 🌐 Socials:
