@@ -1,9 +1,9 @@
 # 💫 About Me:
 ## About Me
-I am Shourya Jaiswal, a Computer Science (Data Science) undergraduate with strong skills in React.js, JavaScript, and Data Structures. I have built scalable web applications, including an Employee Management System handling 50+ users and improving workflow efficiency by 40%.
+I am Shourya Jaiswal, a Computer Science (Data Science) undergraduate with strong skills in React.js, JavaScript, and Data Structures. I have built scalable web applications, including an Employee Management System, Ecosort-AI handling 50+ users and improving workflow efficiency by 40%.
 
 I have experience in API integration, performance optimization (95+ Lighthouse score), and developing responsive user interfaces. With 100+ DSA problems solved, I bring strong problem-solving abilities and a passion for building efficient and impactful software solutions.<br><br>
-<b>Languages:<b> C++, C, Python, JavaScript, Golang (basic), SQL <br>
+<b>Languages:<b> Java, C, Python, JavaScript, Golang (basic), SQL <br>
 <b>Databases:<b> MySQL, PostgreSQL<br>
 <b>Core Competencies:<b> Data Structures & Algorithms, Object-Oriented Programming, Frontend Development, React.js, UI/UX, Data Analysis
 
